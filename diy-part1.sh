@@ -19,5 +19,5 @@
 #echo 'src-git luci-app-oaf https://github.com/destan19/OpenAppFilter' >>feeds.conf.default
 #echo 'src-git kenzo https://github.com/kenzok8/small-package' >>feeds.conf.default
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
-git clone https://github.com/KFERMercer/luci-app-baidupcs-web.git ./package/luci-app-baidupcs-web
+#git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
+#git clone https://github.com/KFERMercer/luci-app-baidupcs-web.git ./package/luci-app-baidupcs-web
